@@ -1,0 +1,2 @@
+# jndi
+datasources jndi test..
