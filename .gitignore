@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,svn,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,svn,git
 
@@ -8,10 +7,7 @@ target/
 
 ### STS ###
 .apt_generated
-.classpath
 .factorypath
-.project
-.settings
 .springBeans
 
 ### IntelliJ IDEA ###
@@ -38,7 +34,6 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
 .loadpath
 .recommenders
 
@@ -128,7 +123,6 @@ local.properties
 *.war
 *.nar
 *.ear
-*.zip
 *.tar.gz
 *.rar
 
